@@ -1,0 +1,7 @@
+***This script is only for trying Appium Test Environment.***
+
+Before run Python Test Script, You have to install Appium Python Library
+
+>> sudo pip install Appium-Python-Client
+
+
